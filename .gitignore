@@ -10,3 +10,5 @@ code/src/*.nc*
 code/src/*.pkl*
 
 code/raw_retrieval/*
+
+configs/training/UKSIG2025/*
